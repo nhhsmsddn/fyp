@@ -1,1 +1,1 @@
-# sentiment analysis on national cultural tourism using svm
+# sentiment analysis on national cultural tourism using lsvm
